@@ -1,3 +1,5 @@
+![image](https://github.com/fs-firststep/fs-firststep/assets/91541029/8712dfe4-622c-4590-a965-2482c6b6a70c)
+
 <h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
