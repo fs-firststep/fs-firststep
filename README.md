@@ -21,10 +21,10 @@
 
 - ⚡ Fun fact **I am a Responsible person during work but Funny at parties**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/developer-vijay" target="blank">LinkedIn </a>
-</p>
+
+<h3 align="left">Connect with me: 
+<a href="https://linkedin.com/in/developer-vijay" target="blank"> LinkedIn </a>
+</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fs-firststep&show_icons=true&locale=en&layout=compact" alt="fs-firststep" /></p>
 
