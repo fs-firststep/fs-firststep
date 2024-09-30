@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fs-firststep&label=Profile%20views&color=0e75b6&style=flat" alt="fs-firststep" /> </p>
 
-- 🔭 I’m currently Study in **4th Year of Computer Science Engineering**
+- 🔭 I’m Graduate **Computer Science Engineering**
 
 - 🌱 I’m currently learning **Mastery Full-Stack development Course**
 
